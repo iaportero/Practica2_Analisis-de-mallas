@@ -127,7 +127,9 @@ Link del archivo de los calculos teoricos :
 
 https://github.com/iaportero/Practica2_Analisis-de-mallas/blob/main/Codigo%20Fuente/practica%202%20-%20calculos.pdf
 
+Enlace del  video de la practica
 
+https://youtu.be/30DibfvelVQ
 
 
 
