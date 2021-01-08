@@ -88,8 +88,44 @@ Tendremos un sistema de incognitas  con tantas incognitas como mallas.
 
 6 .Manueal de usuario
 
+https://github.com/iaportero/Practica2_Analisis-de-mallas/tree/main/Hojas%20Tecnicas
+
+7. Descripcion de prerrequsitos y configuracion
+
+* Crear una cuenta Tinkercad
+
+Acceder a la pagina web de Tinkercad
+
+Registrarse con un correro (Aplicacion gratiuita)
+
+Confirmar la cuenta mediante le correo electronico
+
+Ya con la cuenta creada realizar la configuracion requerida
 
 
+![](https://github.com/iaportero/Practica1_LeyesKirchhoff/blob/main/Foto%208.png)
+
+
+8.Conclusiones
+
+*  Se llego a demostrar  la teoria del analisis de mallas de manera experimental y teorica al verificar que las mediciones coincide en valores  de escritorio como en los simulados
+
+
+*  El error porcentual es poco considerable ya que hay poca  fluctuacion de medidas en los  valores arrojados por el simulador y en las pruebas de escritorio.
+
+9. Bibliografia
+
+Mallas. (n.d.). Retrieved January 7, 2021, from https://es.slideshare.net/juanquimar/mallas-
+
+
+Método de las corrientes de mallas - EcuRed. (n.d.). Retrieved January 7, 2021, from https://www.ecured.cu/Método_de_las_corrientes_de_mallas
+
+
+10. Anexos
+
+Link del archivo de los calculos teoricos :
+
+https://github.com/iaportero/Practica2_Analisis-de-mallas/blob/main/Codigo%20Fuente/practica%202%20-%20calculos.pdf
 
 
 
