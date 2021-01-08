@@ -125,7 +125,7 @@ Método de las corrientes de mallas - EcuRed. (n.d.). Retrieved January 7, 2021,
 
 Link del archivo de los calculos teoricos :
 
-https://github.com/iaportero/Practica2_Analisis-de-mallas/blob/main/Codigo%20Fuente/practica%202%20-%20calculos.pdf
+https://github.com/iaportero/Practica2_Analisis-de-mallas/tree/main/Codigo%20Fuente
 
 Enlace del  video de la practica
 
